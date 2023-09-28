@@ -1,0 +1,44 @@
+{
+  "Health": [
+    {
+      "name": "Vigor",
+      "description": "Healing Potion: Lots of health :)",
+      "price": 25.63
+    },
+    {
+      "name": "Stamina",
+      "description": "Healing Potion: Regens those legs!",
+      "price": 50.23
+    }
+  ],
+
+  "Armour": [
+    {
+      "name": "Dragon",
+      "description": "Armour: Made of Dragon Scales",
+      "price": 152.32
+    },
+    {
+      "name": "Diamond",
+      "description": "Armour: Made with diamonds",
+      "price": 126.89
+    }
+  ],
+  "Weapons": [
+    {
+      "name": "Excaliber",
+      "description": "Weapon: Decimate your foes!",
+      "price": 75.69
+    },
+    {
+      "name": "Excaliber",
+      "description": "Discount Weapon: Decimate your foes!",
+      "price": 60.25
+    },
+    {
+      "name": "Sting",
+      "description": "Weapon: Gollum beware!",
+      "price": 115.99
+    }
+  ]
+}
